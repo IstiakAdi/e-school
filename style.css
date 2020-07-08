@@ -1,0 +1,243 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.landingpage{
+    margin-top: 80px;
+}
+.container{
+    margin-bottom: 150px;
+}
+img.logo {
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.menuArea{
+    margin-right: 80px;
+}
+.menuArea ul li {
+    margin-right: 20px;
+    padding: 5px 10px;
+    border-radius: 8px;
+   
+}
+.menuArea ul li:hover{
+    background-color: lightgray;;
+    
+}
+.menuArea ul li a{
+    font-size: 20px;
+    font-weight: 700;
+}
+.nav-item a{
+    color:#26b573   !important;
+}
+.navbar-nav .active{
+    background-color: lightgray;
+    
+}
+.menuArea .sign-Btn{
+    background-color:#26b573;
+    padding: 10px 20px;
+    color: lightgray;
+    text-decoration: none;
+    font-size: 22px;
+    border-radius: 15px;
+}
+.headGraphics img{
+    width: 100%;
+}
+
+.headContent h4{
+    color: orangered;
+    margin-bottom: 10px;
+}
+.headContent h1{
+    font-size: 65px;
+    font-weight: 900;
+    line-height: 90px;
+    margin-bottom: 20px;
+}
+.headContent p{
+    line-height: 35px;
+    font-size: 20px;
+    color: dimgrey;
+    
+}
+.textMarker{
+    color: #26b573;
+}
+.my-button{
+    padding: 10px 20px;
+    background-color: #26b573;
+    border: none;
+    border-radius: 15px;
+    font-size: 25px;
+    color: lightgrey;
+    margin-top: 20px;
+}
+.informaton-divider img{
+    width:80px;
+    margin-bottom: 20px;
+    
+}
+.informaton-divider{
+    
+    margin-left: -50px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+.imgArea {
+    text-align: center;
+    width:350px;
+}
+.imgArea h1{
+    font-size: 25px;
+    font-weight: 600;
+    color: #1d014b;
+    margin-top: 10px 0px;
+}
+.imgArea h5{
+    color: dimgrey;
+}
+.imgArea.align-items-center.Boxshadow {
+    box-shadow: 0px 60px 50px -40px lightgrey!important;
+    width:350px;
+}
+.card .Marketing-img {
+    height: 184px;
+}
+.card-body h3{
+    color:#1d014b;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.card-body p{
+    line-height: 25px;
+    color: dimgrey;
+}
+.buy-btn {
+    padding: 5px 15px !important;
+    border-radius: 20px;
+}
+.footer-content h6{
+    font-size: 14px !important;
+    font-weight: 600;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 30px lightgrey;
+}
+.CourseTitle{
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+.CourseTitle h1{
+    color:#1d014b;
+    font-weight: 700;
+    font-size: 40px;
+}
+.Testimonial-divider{
+    text-align: center;
+
+}
+.testicontent h1 {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.testicontent p {
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+    color: dimgray;
+}
+.testicontent img {
+    width: 350px;
+    text-align:justify;
+}
+.col-md-3.foot-text h4 {
+    font-size: 16px;
+    padding-bottom: 20px;
+    line-height: 25px;
+    font-weight: 600;
+    color: dimgray;
+}
+
+.social h3 {
+    font-size: 30px;
+    color: lightgrey;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.social ul li i {
+    line-height: 60px;
+    font-size: 31px;
+    color: white;
+    background: #26b573;
+    margin-bottom: 20px;
+    padding: 8px 24px;
+    border-radius: 50%;
+    transition: all 1s;
+    border: 1px solid lightcyan;
+}
+
+
+.social ul li {
+    list-style: none;
+    transition: all 1s;
+    display: inline-block;
+    margin: 8px;
+}
+
+.social ul li i:hover {
+    background: bal;
+    background: lightgray;
+    color: #26b573;
+}
+.col-md-3.Courses-list h3 {
+    line-height: 25px;
+    font-size: 30px;
+    color: lightgrey;
+    font-weight: 600;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+
+.col-md-3.Courses-list ul li {
+    list-style: none;
+    transition: all 1s;
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.footer{
+    color: lightgrey;
+}
+.col-md-12.footer-moto h4 {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    line-height: 43px;
+    font-size: 20px;
+}
+footer{
+    background-color: dimgray;
+    text-align: center;
+    padding: 50px 0px; 
+
+}
+footer h2{
+    font-size:20px !important;
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px;
+
+}
+
