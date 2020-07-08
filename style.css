@@ -212,8 +212,8 @@ img.logo {
 .col-md-3.Courses-list ul li {
     list-style: none;
     transition: all 1s;
-    display: inline-block;
-    margin: 10px;
+    
+    margin: 28px;
     font-size: 20px;
     font-weight: 600;
 }
@@ -239,5 +239,8 @@ footer h2{
     margin: 0 auto;
     padding: 30px;
 
+}
+.row.course-row {
+    margin-bottom: 35px;
 }
 
